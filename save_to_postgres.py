@@ -9,7 +9,7 @@ def save_to_postgres(data):
     conn = psycopg2.connect(
         dbname="letsrentz",
         user="postgres",
-        password="amrendra",  # Replace with your actual PostgreSQL password
+        password="your-password",  # Replace with your actual PostgreSQL password
         host="localhost",
         port="5432"
     )
