@@ -1,0 +1,8 @@
+wb/
+__pycache__/
+*.pyc
+*.log
+.vscode/
+.env
+*.sqlite3
+letsrentz_data.csv
