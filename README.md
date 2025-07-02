@@ -32,5 +32,6 @@ A Python-based web scraping project to extract rental listings from [LetsRentz](
 ```bash
 git clone https://github.com/amrendra7777/letsrentz-scrapper.git
 cd letsrentz-scrapper
+```
 
 ### 2. Edit the save_to_postgres.py and generate_csv.py file and replace the password of the database with your own password.
